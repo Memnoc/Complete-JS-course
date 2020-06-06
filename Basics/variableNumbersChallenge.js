@@ -55,8 +55,8 @@ const kilometersToMiles = kilometers => {
 kilometersToMiles(60);
 
 /**
- * OUTPUT
-******************************************
+OUTPUT
+*******************************************
 45 fahrenheit is 7.222222222222222 celsius
 60 celsius is 140 fahrenheit
 60 miles is 96 kilometers
